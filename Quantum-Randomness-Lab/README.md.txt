@@ -1,5 +1,6 @@
 # Quantum Randomness Laboratory
 
+
 ## Mini Project 1
 
 This mini project demonstrates a Quantum Random Number Generator (QRNG) using Qiskit in Google Colab.
